@@ -1,5 +1,0 @@
-name: SafelyExplode
-version: '1.0'
-main: net.nae.SafelyExplode
-authors: [zzz724]
-description: Creeper's explosion will not damage the blocks
